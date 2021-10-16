@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(226, 217, 192);
+}
+
+header {
+    width: 100%;
+    height: 150px;
+    background-color: rgb(187, 138, 60);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+    font-size: larger;
+    padding-top: 40px; 
+}
+
+.card {
+    background-color: white;
+    color: black;
+    margin-bottom: 4px;
+    padding: 4px;
+    width: 150px;
+    height: 200px;
+    border-radius: 40px;
+    border-color: black;
+    font-weight: 600;
+
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    justify-content:center ;
+}
+
+.member {
+    background-color: #008cff;
+    color: white;
+    height: 70px;
+}
