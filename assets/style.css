@@ -1,17 +1,17 @@
 body {
-    background-color: rgb(226, 217, 192);
+    background-color: rgb(210, 212, 216);
 }
 
 header {
     width: 100%;
     height: 150px;
-    background-color: rgb(187, 138, 60);
+    background-color: rgb(82, 129, 231);
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
     font-size: larger;
     padding-top: 40px; 
 }
-
+ 
 .card {
     background-color: white;
     color: black;
@@ -29,8 +29,28 @@ header {
     justify-content:center ;
 }
 
+.cardHeader {
+    background-color: chocolate;
+}
+
+/*
 .member {
     background-color: #008cff;
     color: white;
     height: 70px;
-}
+} */ 
+
+
+/* PART TWO */
+
+/* body {
+    background-color: rgb(218, 188, 134);
+    content: "";
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 70%;
+} */
